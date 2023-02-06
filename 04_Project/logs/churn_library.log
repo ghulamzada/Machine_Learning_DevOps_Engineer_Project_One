@@ -1,0 +1,6 @@
+root - INFO - Testing import_data: SUCCESS
+root - INFO - Testing EDA plots: SUCCESS
+root - INFO - Testing loading data for encoding: SUCCESS
+root - INFO - Testing dataframe shape after encoding: SUCCESS
+root - INFO - Loading data feature engineering: SUCCESS
+root - INFO - Testing dataframe shape after feature engineering: SUCCESS
